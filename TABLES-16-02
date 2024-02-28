@@ -1,0 +1,22 @@
+<html>
+    <head><title>Fakestore</title>
+
+</head>
+<style>table,td,th,tr
+{ border:2px solid black;
+border-collapse:collapse;
+}
+</style>
+<body>Fake Store
+<table>
+    <tr>
+       <th>ID</th>
+       <th>TITLE</th>
+       <th>PRICE</th>
+       <th>DESCRIPTION</th>
+       <th>IMAGE</th>
+       <th>RATING</th>
+        </tr>
+</table>
+</body>
+</html>
